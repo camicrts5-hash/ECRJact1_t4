@@ -28,6 +28,7 @@ public class EjemploRestController {
             "Programación Web",
             "Taller de Base de Datos",
             "Fundamentos de Telecomunicaciones",
+            "Sistemas Operativos",
         };
     }
 
